@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "protobuf",
+        "repositoryURL": "https://github.com/luistferreira/protobuf.git",
+        "state": {
+          "branch": "main",
+          "revision": "67df02a9ea65f7a9478063c986b6e7d699397b32",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
